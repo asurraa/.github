@@ -1,12 +1,7 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+<p align="center">
+    <a href="https://pi-hole.net/">
+        <img src="https://avatars.githubusercontent.com/u/62465909?s=400&u=b543f5c67f4bafb214e9064ac95de21e35daf2d9&v=4" width="150" height="260" alt="asurraa">
+    </a>
+    <br>
+    <strong>Welcome to AsurRaa</strong>
+</p>
