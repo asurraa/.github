@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://pi-hole.net/">
-        <img src="https://avatars.githubusercontent.com/u/62465909?s=400&u=b543f5c67f4bafb214e9064ac95de21e35daf2d9&v=4" height="100" width="100"  alt="asurraa">
+        <img src="https://avatars.githubusercontent.com/u/62465909?s=400&u=b543f5c67f4bafb214e9064ac95de21e35daf2d9&v=4" height="150" width="150"  alt="asurraa">
     </a>
     <br>
-    <strong>Welcome to AsurRaa</strong>
+    <strong>AsurRaa is software engineering startup that creates innovative solutions for complex problems.</strong>
 </p>
