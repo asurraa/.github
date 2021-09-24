@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://pi-hole.net/">
-        <img src="https://avatars.githubusercontent.com/u/62465909?s=400&u=b543f5c67f4bafb214e9064ac95de21e35daf2d9&v=4" height="150" width="150"  alt="asurraa">
-    </a>
-    <br>
+    <div align="center">
+  <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
+</div>
+<h1>Welcome to AsurRaa!</h1>
 </p>
