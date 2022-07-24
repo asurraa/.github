@@ -13,4 +13,7 @@
     <a href="https://www.linkedin.com/company/asurraa">Our Linkedin</a> .
   </samp>
 </p>
+<p>
+AsurRaa is software agency that creates innovative solutions for the complex problems. Our team is composed of developers, designers, engineers, computer scientists, all to help you realize your vision with your business with modern technology.
+</p>
 </p>
