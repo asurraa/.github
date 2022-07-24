@@ -5,12 +5,12 @@
 <h1>Welcome to AsurRaa!</h1>
 <p align="center">
   <samp>
-    <a href="https://asurraa.com">website</a> .
-    <a href="https://asurraa.com/services">servies</a> .
-    <a href="https://asurraa.dev">oss</a> .
-    <a href="https://asurraa.com/blogs">blogs</a> .
-    <a href="https://facebook.com/asurraa">facebook</a> .
-    <a href="https://www.linkedin.com/company/asurraa">linkedin</a> .
+    <a href="https://asurraa.com">Our website</a> .
+    <a href="https://asurraa.com/services">Our servies</a> .
+    <a href="https://asurraa.dev">Our OSS</a> .
+    <a href="https://asurraa.com/blogs">Our blogs</a> .
+    <a href="https://facebook.com/asurraa">Our Facebook</a> .
+    <a href="https://www.linkedin.com/company/asurraa">Our Linkedin</a> .
   </samp>
 </p>
 </p>
