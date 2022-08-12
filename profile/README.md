@@ -19,7 +19,7 @@
 <p align="center">
   <samp>
     <a href="https://asurraa.com">
-    <hr/>
+
     </a> 
   </samp>
 </p>
