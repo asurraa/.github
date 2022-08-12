@@ -16,11 +16,4 @@
 <p>
 
 </p>
-<p align="center">
-  <samp>
-    <a href="https://asurraa.com">
-
-    </a> 
-  </samp>
-</p>
 </p>
