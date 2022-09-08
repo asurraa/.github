@@ -1,6 +1,6 @@
 <p align="center">
     <div align="center">
-  <img src="https://raw.githubusercontent.com/asurraa/.github/main/assets/cover.jpg">
+  <img src="https://raw.githubusercontent.com/asurraa/.github/master/assets/cover.jpg">
 </div>
 <h1>Welcome to AsurRaa!</h1>
 <!-- <p align="center">
